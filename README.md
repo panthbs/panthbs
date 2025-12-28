@@ -1,6 +1,6 @@
 # Hi, I'm Panthakan!
 
-**Data Scientist | Machine Learning Practitioner | Statistician**
+**Data Scientist | Machine Learning Practitioner | Mathematician | Statistician**
 
 I am a Research Data Scientist bridging the gap between mathematical theory and real-world business value. With a strong academic background in **mathematics and statistics**, I focus on building interpretable machine learning models, forecasting systems, and data-driven solutions.
 
@@ -13,9 +13,9 @@ I am a Research Data Scientist bridging the gap between mathematical theory and 
 ### 🛠️ Tech Stack
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | Python, R, SQL, C/C++ |
-| **Data & ML** | scikit-learn, pandas, NumPy, ggplot2 |
-| **Visualization** | PowerBI, Matplotlib, Seaborn |
+| **Languages** | Python, R, SQL, C, C++ |
+| **Data & ML** | scikit-learn, TensorFlow, PyTorch |
+| **Visualization** | PowerBI, Matplotlib, Seaborn, ggplot2 |
 
 ---
 
@@ -27,4 +27,4 @@ I am a Research Data Scientist bridging the gap between mathematical theory and 
 
 ---
 
-[🌐 My Portfolio](https://panthakan-fusionsol.github.io) • [💼 LinkedIn](https://www.linkedin.com/in/panthbs/)
+[🌐 My Portfolio](https://panthbs.github.io/) • [💼 LinkedIn](https://www.linkedin.com/in/panthbs/)
